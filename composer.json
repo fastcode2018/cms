@@ -1,0 +1,13 @@
+{
+    "minimum-stability": "stable",  
+    "require": {
+        "twig/twig": "^2.0",
+        "monolog/monolog": "1.0.*",
+        "panique/php-sass": "1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "library\\": "library"
+        }
+    }
+}

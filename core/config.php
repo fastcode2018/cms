@@ -1,0 +1,10 @@
+<?php
+    define('REAL_DIR','/xampp/htdocs/php-framework/arsen/');
+    define('SQL_TYPE','MYSQL_PDO');
+    define('SQL_HOST','127.0.0.1');
+    define('SQL_USERNAME','root');
+    define('SQL_PASS','');
+    define('SQL_PORT','3306');
+    define('SQLITE_PATH','\\');
+    define('SQL_DBNAME','fastcode_db');
+?>

@@ -1,0 +1,3 @@
+composer install && composer update && composer dump-autoload --optimize
+
+scss compile  -  php compile.php
